@@ -1,5 +1,5 @@
 # IMS
-JSON based Inventory Management System Project
+JSON Based Inventory Management System Project
 
 # About Me
 My name is Jwalant Modi.
