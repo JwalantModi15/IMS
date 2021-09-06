@@ -9,8 +9,7 @@ It consists of total 4 files:
  - IMS_Adding_New_Products.ipynb file is used to add new products to Records.json file.
  - IMS_Purchasing_Products.ipynb file is used for purchasing any product, updating Record.json file and for Generating BILL.
 
-### Product Features
-Product Features are:
+### Product Features:
  - Product ID
  - Product Name
  - Product Quantity
@@ -18,8 +17,7 @@ Product Features are:
  - Available Discount 
  - Product Company
 
-### Transaction Features
-Transaction Features are:
+### Transaction Features:
  - Transaction ID
  - Product ID
  - Product Name
